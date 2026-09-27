@@ -1,6 +1,5 @@
 # SSCC
 
-Official implementation of **SSCC** for multi-label visual recognition.
 
 ## Datasets
 We conduct experiments on three public benchmark datasets: MSCOCO, NUSWIDE, and OpenImage V4.

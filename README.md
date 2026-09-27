@@ -17,3 +17,19 @@ We conduct experiments on three public benchmark datasets: MSCOCO, NUSWIDE, and 
 Install dependencies:
 ```bash
 pip install -r requirements.txt
+
+
+SSCC
+├── clip/             # CLIP backbone modules
+├── datasets/         # Dataset loading and preprocessing
+├── model/            # Core SSCC model architecture
+├── utils/            # Helper functions and tools
+├── train_text.py     # Training pipeline
+├── eval_checkpoint.py# Evaluation pipeline
+└── requirements.txt  # Environment configuration
+
+
+
+## Acknowledgements
+
+We sincerely appreciate the excellent open-source projects from [RCNn](https://github.com/wangshouwen/RCNn/tree/main), [CoOp](https://github.com/KaiyangZhou/CoOp) and [MKT](https://github.com/sunanhe/MKT). Our code is heavily built on their official implementations.

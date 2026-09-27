@@ -1,10 +1,2 @@
-numpy==1.26.4
-pillow==10.4.0
-tqdm==4.66.5
-yacs==0.1.8
-ftfy==6.2.3
-regex==2024.7.24
-opencv-python-headless==4.10.0.84
-pycocotools==2.0.8
-randaugment==1.0.2
-setuptools>=68,<76
+
+
